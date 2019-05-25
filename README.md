@@ -1,3 +1,1 @@
-# shiyanlou
-Git课程测试
-Git opration is easy we should exercise everday
+Git is very easy when you practice so much, you will gradually understand on the work
